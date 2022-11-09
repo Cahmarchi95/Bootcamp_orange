@@ -7,16 +7,6 @@ body {
   background-color: var(--cor02);
 }
 
-:root {
-  --cor01: #ffff;
-  --cor02: #f6f8fc;
-  --cor03: #37a5c6;
-  --cor04: #49d0b0;
-  --cor05: #61e1ca;
-  --cor06: #53a063;
-  --cor07: #716b45;
-  --cor08: #f42a28;
-}
 
 .content {
   height: 100vh;
